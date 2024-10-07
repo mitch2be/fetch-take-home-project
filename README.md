@@ -4,21 +4,22 @@ Ensure the target fetch-take-home-project is selected and run
 
 # Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
-I focused on clean, modular code that scales. I believe is the foundation to a great app.
+I focused on clean, modular code that scales. I believe that is the foundation to a great app.
 
 # Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
 
 About 3 - 3.5 hours.
 
-50% of my time for ensuring clean and scalable code with modules
-25% of my time on the UI, error handling and async tasks
-25% on tests
+- 50% of my time for ensuring clean and scalable code with modules
+- 25% of my time on the UI, error handling and async tasks
+- 25% on tests
 
 # Trade-offs and Decisions: Did you make any significant trade-offs in your approach?
 
-With more time, adding light and dark mode
-Better UI design
-I would add localization into the app with more time
+With more time
+- adding light and dark mode
+- Better UI design
+- I would add localization into the app with more time
 
 # Weakest Part of the Project: What do you think is the weakest part of your project?
 
