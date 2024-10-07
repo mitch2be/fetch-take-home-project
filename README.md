@@ -35,8 +35,8 @@ I wanted to call this out because it changed the way I structured my code and te
 
 # External Code and Dependencies: Did you use any external code, libraries, or dependencies?
 
-The HTTPRequest framework is something I built myself previously and I dropped that into this project.
-I used the tried and true Kingfisher for image caching.
+- The HTTPRequest framework is something I built myself previously and I dropped that into this project.
+- I used the tried and true Kingfisher for image caching.
 
 # Additional Information: Is there anything else we should know? Feel free to share any insights or constraints you encountered
 
