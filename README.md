@@ -4,7 +4,7 @@ Ensure the target fetch-take-home-project is selected and run
 
 # Focus Areas: What specific areas of the project did you prioritize? Why did you choose to focus on these areas?
 
-I focused on clean, modular code that scales. I believe that is the foundation to a great app.
+I focused on clean, scalable, modular code. I believe that is the foundation to a great app.
 
 # Time Spent: Approximately how long did you spend working on this project? How did you allocate your time?
 
